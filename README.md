@@ -48,20 +48,20 @@ You can install them using pip:
 
 ### Overall Churn Customers
 
-![Screenshot](images/Churn.png)
+![Screenshot](Churn.png)
 ### Customer Tenure Distribution by Churn Status
 
-![Screenshot](TenureDistribution.png)
+![Screenshot](Tenure_Distribution.png)
 
 ### Customer Survival Function over Tenure
 
-![Screenshot](Tenureoverthetime.png)
+![Screenshot](Tenure_over_the_time.png)
 
 ## Results
 
 ### Shap Summary for Gradient Boosting
 
-![Screenshot](GradientBoost.png)
+![Screenshot](Gradient_Boost.png)
 
 ### Shap Summary for XGBoost
 
