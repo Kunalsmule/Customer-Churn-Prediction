@@ -48,7 +48,7 @@ You can install them using pip:
 
 ### Overall Churn Customers
 
-![Screenshot](Churn.png)
+![Screenshot](images/Churn.png)
 ### Customer Tenure Distribution by Churn Status
 
 ![Screenshot](TenureDistribution.png)
