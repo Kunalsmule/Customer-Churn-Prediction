@@ -51,17 +51,17 @@ You can install them using pip:
 ![Screenshot](Churn.png)
 ### Customer Tenure Distribution by Churn Status
 
-![Screenshot](Tenure_Distribution.png)
+![Screenshot](Tenure Distribution.png)
 
 ### Customer Survival Function over Tenure
 
-![Screenshot](Tenure_over_the_time.png)
+![Screenshot](Tenure over the time.png)
 
 ## Results
 
 ### Shap Summary for Gradient Boosting
 
-![Screenshot](Gradient_Boost.png)
+![Screenshot](Gradient Boost.png)
 
 ### Shap Summary for XGBoost
 
