@@ -65,7 +65,7 @@ You can install them using pip:
 
 ### Shap Summary for XGBoost
 
-![Screenshot](Churn.png)
+![Screenshot](Churn5.png)
 
 ## Key Insights from Both Models
 
